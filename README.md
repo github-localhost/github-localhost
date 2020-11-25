@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**github-localhost/github-localhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// my stack 
+var editus = {
+  firstName: "Egor",
+  languages: ["Russian", "English"],
+  tech: [
+    "HTML",
+    "CSS",
+    "Git",
+    "JavaScript": [
+                "Express.js", "Node.js", "JQuery", "Sequalize"
+                "socketio"
+                  ], // recently started
+                  
+    "Python": [ 
+                "Flask", "Django","bs4", "Pandas", "numpy",
+                "Scrapy", "PyQT5", "OpenCV", "Keras", "aiohttp",
+                "aiogram" 
+              ], // and more (one year + experience)
+              
+    "nginx", 
+    "apache",
+    "cpp",
+    "bash",
+    "vmprotect",
+    "FASM",
+    
+  
+  ],
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
