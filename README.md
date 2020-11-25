@@ -1,9 +1,9 @@
 
-// my stack 
-var editus = {
-  firstName: "Egor",
-  languages: ["Russian", "English"],
-  tech: [
+var MyProfile = {
+
+    firstName: "Egor",
+    languages: ["Russian", "English"],
+    tech: [
     "HTML",
     "CSS",
     "Git",
