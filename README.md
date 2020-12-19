@@ -1,7 +1,7 @@
 
 var MyProfile = {
 
-    firstName: "Egor",
+    username: "github-localhost",
     languages: ["Russian", "English"],
     tech: [
     "HTML",
