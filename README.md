@@ -1,8 +1,8 @@
-
-var MyProfile = {
 <meta name='freelancehunt' content='0dec6057ec8dd35' />
+var MyProfile = {
+    
    
-   username: "github-localhost",
+    username: "github-localhost",
     languages: ["Russian", "English"],
     tech: [
     "HTML",
